@@ -1,6 +1,6 @@
 {
   "name": "assignments_1",
-  "main": "expo-router/entry",
+  "main": "index.jsx",
   "version": "1.0.0",
   "scripts": {
     "start": "expo start",
